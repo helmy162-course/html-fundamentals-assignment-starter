@@ -1,0 +1,11 @@
+{
+  "name": "html-assignment-grader",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test-html.js"
+  },
+  "devDependencies": {
+    "jsdom": "^22.1.0",
+    "fs": "0.0.1-security"
+  }
+}
