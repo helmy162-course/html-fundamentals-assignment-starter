@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "HTML Structure and Semantics",
+      "setup": "npm install",
+      "run": "npm test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
